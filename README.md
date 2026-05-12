@@ -1,6 +1,6 @@
 # Claude Skills
 
-我的 Claude Code Skills 集合，可全局安装到 `~/.claude/skills/`。
+我的 Claude Code 代码审查Skill 可全局安装到 `~/.claude/skills/`。
 
 ## Available Skills
 
